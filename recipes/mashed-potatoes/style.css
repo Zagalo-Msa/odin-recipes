@@ -1,0 +1,31 @@
+#title {
+    font-size: 50px;
+    color: white;
+    background-color: goldenrod;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.heading {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#description {
+    color: darkorange;
+    font-size: 18px;
+    font-style: italic;
+}
+
+.list {
+    color: darkorange;
+    font-size: 18px;
+}
+
+.steps {
+    color: darkorange;
+    font-size: 18px;
+}
