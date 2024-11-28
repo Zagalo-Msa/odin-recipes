@@ -1,0 +1,24 @@
+#h1 {
+    color: brown;
+    background-color: bisque;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.h2 {
+    color: brown;
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+#description {
+    color: orange;
+    font-size: 18px;
+}
+
+.li {
+    color: darkolivegreen;
+}
